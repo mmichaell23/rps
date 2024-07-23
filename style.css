@@ -35,11 +35,15 @@ img {
     margin-top: 60px;
 }
 
-.reset-score-button {
+.reset-score-button, .auto-play-button, .auto-play-button-2 {
     background-color: white;
     color: black;
     border: none;
     padding: 10px 15px;
     font-size: 8px 15px;
     cursor: pointer;
+}
+
+.auto-play-button-2 {
+    padding: 0px;
 }
